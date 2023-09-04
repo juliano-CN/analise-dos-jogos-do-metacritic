@@ -10,3 +10,4 @@
  - metascore: média das notas dos críticos
 
   O objetivo desta análise é descobrir se existe uma correlação entre as notas dos críticos e usuários e, se possível, estimar a nota média dos usuários a partir de outras variáveis do conjunto de dados (metascore e ano de lançamento).
+  O arquivo "Games_metacritic.csv" é a planilha dos dados e "análise dos dados.ipynb" é a análise em si.
